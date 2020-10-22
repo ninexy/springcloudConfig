@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T06:28:11.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="N_wuDQqB7xFKloPGMebw" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-22T06:29:37.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="pBCX3g_YrjzEg4pFAmfW" version="13.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1113" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#280086" math="0" shadow="0">
       <root>
@@ -46,11 +46,20 @@
         <mxCell id="WwxlHJiuaojEHLZEj_QW-13" value="得到最终格网" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#E4FDE1;fillColor=#F45B69;strokeColor=#028090;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="370" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="WwxlHJiuaojEHLZEj_QW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#114B5F;endArrow=block;endFill=0;strokeColor=#028090;fontSize=20;fontColor=#E4FDE1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WwxlHJiuaojEHLZEj_QW-16" target="WwxlHJiuaojEHLZEj_QW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WwxlHJiuaojEHLZEj_QW-16" value="循环格网内每个像元" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#E4FDE1;fillColor=#F45B69;strokeColor=#028090;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WwxlHJiuaojEHLZEj_QW-19" value="预处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#E4FDE1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="55" y="423" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WwxlHJiuaojEHLZEj_QW-20" value="获取像元在原始数据中的位置" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#E4FDE1;fillColor=#F45B69;strokeColor=#028090;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="565" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WwxlHJiuaojEHLZEj_QW-22" value="投影转换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#E4FDE1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="530" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
