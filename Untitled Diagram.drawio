@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T06:16:38.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="mXz5-j7orHhet6XVmhuF" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-22T06:17:33.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="3Yj5IKT9jpGsQs7N8oIG" version="13.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#280086" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
         <mxCell id="aTK1c8W4Ct9fwTojcl0Y-105" value="保存输出" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#E4FDE1;fillColor=#F45B69;strokeColor=#028090;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WwxlHJiuaojEHLZEj_QW-0" value="获取原始影像四角点" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#E4FDE1;fillColor=#F45B69;strokeColor=#028090;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WwxlHJiuaojEHLZEj_QW-0" value="获取原始影像左下角右上角点" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#E4FDE1;fillColor=#F45B69;strokeColor=#028090;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="870" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WwxlHJiuaojEHLZEj_QW-1" value="坐标转换得到bd09ll坐标点" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#E4FDE1;fillColor=#F45B69;strokeColor=#028090;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
